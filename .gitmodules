@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "sae4health"]
+	path = sae4health
+	url = https://github.com/wu-thomas/sae4health
